@@ -1,0 +1,8 @@
+tensorflow
+matplotlib
+seaborn 
+pandas
+numpy
+PyYaml
+
+-e .
